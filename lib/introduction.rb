@@ -1,6 +1,11 @@
 def introduction(name)
   puts "Hi, my name is #{name}."
 end
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> b6186a0d29af7561f6c43d3d357da407603832da
 
 def introduction_with_language(name,language)
   puts "Hi, my name is #{name} and I am learning to program in #{language}."
